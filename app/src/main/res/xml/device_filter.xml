@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CSR8510 A10 -->
+    <usb-device vendor-id="2578" product-id="1" />
+    <!-- Generic Bluetooth class (Wireless controller / RF / Bluetooth) -->
+    <usb-device class="224" subclass="1" protocol="1" />
+</resources>
