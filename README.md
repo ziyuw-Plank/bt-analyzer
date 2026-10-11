@@ -55,4 +55,5 @@ The Phone Log page only runs read-only commands via `su` (`id`, `getprop`, `stat
 `./gradlew assembleDebug` (JDK 17+, Android SDK 37).
 
 ## License
-MIT
+
+[MIT](LICENSE)
